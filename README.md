@@ -3,8 +3,7 @@
 
 This program generates a random set of numbers, letters, and special characters based on the user's specifications. Upon clicking the Generate Password button, a series of questions pops up for the user to answer. One prompt and four confirmations. The program then uses an array of all possible characters that the user approved, and selects a random index for the specified length of characters the user input. 
 
-![alt text][Password Generator Screengrab]
-[Password Generator Screengrab]: assets/password-generator-screengrap.png
+![alt text](https://github.com/haleynmyers/secure-password-generator/blob/master/assets/password-generator-screengrab.png "Password Generator Screenshot")
 
 ## Installation
 
