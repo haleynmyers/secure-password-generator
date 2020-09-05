@@ -13,6 +13,8 @@ Clone this repository to your terminal and open it in VS Code or equivalent prog
 
 Practically every online exchange requires an account be created. Make sure your accounts remain secure by generating a random secure password (the longer and more diverse, the better!) so that your accounts can not be easily hacked!
 
+![alt text](https://github.com/haleynmyers/secure-password-generator/blob/master/assets/password-generator-demo.gif)
+
 ## Credits
 
 Base code provided by Trilogy Education Services with the intent to teach and practice code. 
